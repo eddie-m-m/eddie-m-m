@@ -2,4 +2,4 @@ Lately I've been spending my days immersed in numbers as I finish a degree in ma
 
 Intrigued by problems at the intersection of data, math, and software...
 
-Just started working on [**my personal website**](https://www.eddiemenefee.com). It'll be up soon.
+Just started working on [**a personal website**](https://www.eddiemenefee.com). It'll be up soon.
